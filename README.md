@@ -9,4 +9,4 @@ I was having fun creating long alliterative descriptions. This will quickly gene
 - Choice between random noun or user provided noun
 
 ### Notes
-- If you want to use your own noun/adjective list, include adjective.txt and noun.txt
+- If you want to use your own noun/adjective list, include adjective.txt and noun.txt in a folder called "wordlists"
