@@ -51,7 +51,7 @@ for i in range(adjectiveWordsLength):
 
 scopedAdjectiveListLength = len(scopedAdjectiveList)
 
-print(scopedAdjectiveListLength)
+#print(scopedAdjectiveListLength)
 
 if (int(userAnswerAdjective) > int(scopedAdjectiveListLength)):
     userAnswerAdjective = scopedAdjectiveListLength
